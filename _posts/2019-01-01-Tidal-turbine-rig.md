@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "Welcome to Jekyll!"
+sub-title: "Example sub-title"
 date:   2016-07-16 12:00:00 -0400
 categories: jekyll update
 icon: "Tidal-Turbine-Uni-Part-4.png"
